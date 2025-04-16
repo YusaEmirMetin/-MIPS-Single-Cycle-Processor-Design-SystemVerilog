@@ -2,12 +2,6 @@
 
 This project implements a simplified **MIPS 32-bit single-cycle processor** using SystemVerilog. It supports basic arithmetic, logic, memory, and control instructions. The design combines custom datapath elements with textbook control logic and is simulated using EDA Playground.
 
-## 📚 Course Information
-
-- **Course**: CMPE361 – Computer Organization  
-- **Lab**: 3.2 – MIPS Single-Cycle Processor Design  
-- **Instructor**: Saiful Islam  
-- **Deadline**: 8 December 2024, 23:59 PM  
 
 ## 🎯 Objective
 
